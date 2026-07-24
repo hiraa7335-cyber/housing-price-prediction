@@ -62,3 +62,4 @@ python src/exercise.py
 Hira Ali
 BS Computer Science
 University of Management and Technology
+Project completed as part of Apex Squad ML Internship - Day 2
